@@ -1,6 +1,6 @@
 # solsystem_opgave
  
-Dette er en løsning på "solsytemsopgaven" fra opgave 33.
+Dette er en løsning på "solsytemsopgaven" fra uge 33.
 Se opgaven nedenfor:
 
 -----
